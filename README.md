@@ -1,5 +1,5 @@
 # Panda King
 
-Vietnam, cavernicole
+Vietnam, cavernicoles
 
 ![cloporte_img](Cubaris-spec-Panda-King.jpg)
