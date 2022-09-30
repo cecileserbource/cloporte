@@ -1,1 +1,1 @@
-![cloporte_img]("Cubaris-spec-Panda-King.jpg")
+![cloporte_img](Cubaris-spec-Panda-King.jpg)
